@@ -1,3 +1,8 @@
+# The Solitaire Cipher
+# RubyQuiz.com, Problem #1
+# http://rubyquiz.com/quiz1.html
+
+# Notes:
 # Encrypting
 # Discard all non-A to Z chars
 # Convert to uppercase
@@ -20,4 +25,5 @@
 # base is cards face value, Ace=1, etc, king=13
 # value = base + (clubs=0, diamonds=13, hearts=26, spades=39)
 # either joker values at 53
-# 
+
+# Taking a break to understand solitaire keystream 
